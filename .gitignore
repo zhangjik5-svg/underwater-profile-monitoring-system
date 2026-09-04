@@ -1,0 +1,13 @@
+# Keep local competition materials out of this public repository.
+*.doc
+*.docx
+*.pdf
+*.zip
+*.7z
+*.rar
+*.key
+*.pem
+*.png
+*.jpg
+*.jpeg
+*.webp
