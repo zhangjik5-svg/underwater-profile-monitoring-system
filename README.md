@@ -23,6 +23,22 @@
 
 项目与比赛尚未结束，本仓库仅用于展示项目背景、本人职责和公开技术方向，不代表项目已经结题，也不声明尚未公布的比赛结果。
 
+## 现场证据（有限公开）
+
+以下素材来自阶段性测试记录，用于说明本人确实参与过设备布放、传感链检查、现场联调和数据链路排查。照片中的人脸已做脱敏处理，日志和屏幕中的关键字段也已遮盖；视频仅保留两张不含人脸的过程截帧。
+
+| 场景 | 记录 |
+| --- | --- |
+| 水池布放 | ![水池布放测试](docs/evidence/evidence-01-pool-deployment.jpg) |
+| 水下剖面 | ![水下剖面传感链](docs/evidence/evidence-02-underwater-profile.jpg) |
+| 耦合链体 | ![耦合传输链](docs/evidence/evidence-03-coupling-chain.jpg) |
+| 现场联调 | ![现场测试台](docs/evidence/evidence-04-test-bench.jpg) |
+| 数据链路 | ![脱敏后的数据链路记录](docs/evidence/evidence-05-data-link-redacted.jpg) |
+| 硬件调试 | ![人脸脱敏后的硬件调试](docs/evidence/evidence-06-hands-on-redacted.jpg) |
+| 视频截帧 | ![海上布放视频截帧](docs/evidence/evidence-08-video-surface.jpg) ![水下测试视频截帧](docs/evidence/evidence-09-video-underwater.jpg) |
+
+这些图片只作为经历证明，不替代项目技术文档，也不代表公开全部实现细节。
+
 ## 公开边界
 
 为遵守比赛和团队保密要求，本仓库不提供以下内容：
@@ -32,7 +48,7 @@
 - 通信协议、控制流程与关键实现细节
 - 性能指标、测试数据与标定记录
 - 机械结构、尺寸和加工资料
-- 含设备信息或现场信息的照片、截图
+- 未经脱敏的设备信息、人员信息或现场原图；仓库只保留经过筛选和脱敏的证据素材
 
 项目结束并完成团队授权后，再评估是否补充可公开内容。
 
